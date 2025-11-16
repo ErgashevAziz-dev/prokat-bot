@@ -4,7 +4,7 @@ from aiogram.types import FSInputFile
 from aiogram.filters import CommandStart
 
 # Tokeningizni shu yerga yozing
-TOKEN = "7698712512:AAG85KmhKwttFUkwPXD1lKRHLxjgbfU_WLA"
+TOKEN = "8456153535:AAHUOXUy8fBMCuUKbHc-0bUw-zH6kY0KULk"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
